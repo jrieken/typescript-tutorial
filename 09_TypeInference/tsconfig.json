@@ -1,5 +1,12 @@
 {
-	"compilerOptions": {
-		"target": "ES5"
-	}
+    "compilerOptions": {
+        "target": "es5"
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./demo.ts"
+    ]
 }
