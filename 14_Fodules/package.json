@@ -1,0 +1,8 @@
+{
+	"name": "Sample",
+	"author": "Johannes Rieken",
+	"version": "0.0.1",
+	"dependencies": {
+		"node-uuid": "*"
+	}
+}

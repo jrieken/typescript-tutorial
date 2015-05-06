@@ -1,0 +1,5 @@
+c:\users\jont\documents\visual studio 2012\Projects\AudioScope\AudioScope\bin\AudioScope.dll
+c:\users\jont\documents\visual studio 2012\Projects\AudioScope\AudioScope\bin\AudioScope.pdb
+c:\users\jont\documents\visual studio 2012\Projects\AudioScope\AudioScope\obj\Debug\AudioScope.csprojResolveAssemblyReference.cache
+c:\users\jont\documents\visual studio 2012\Projects\AudioScope\AudioScope\obj\Debug\AudioScope.dll
+c:\users\jont\documents\visual studio 2012\Projects\AudioScope\AudioScope\obj\Debug\AudioScope.pdb

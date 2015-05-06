@@ -1,0 +1,11 @@
+C:\Users\jont\Documents\Visual Studio 2012\Projects\AudioScopeJS\AudioScope\bin\AudioScope.dll
+C:\Users\jont\Documents\Visual Studio 2012\Projects\AudioScopeJS\AudioScope\bin\AudioScope.pdb
+C:\Users\jont\Documents\Visual Studio 2012\Projects\AudioScopeJS\AudioScope\obj\Release\AudioScope.csprojResolveAssemblyReference.cache
+C:\Users\jont\Documents\Visual Studio 2012\Projects\AudioScopeJS\AudioScope\obj\Release\AudioScope.dll
+C:\Users\jont\Documents\Visual Studio 2012\Projects\AudioScopeJS\AudioScope\obj\Release\AudioScope.pdb
+C:\Users\jont\Documents\Visual Studio 2013\Projects\AudioScopeJS\AudioScope\bin\AudioScope.dll.config
+C:\Users\jont\Documents\Visual Studio 2013\Projects\AudioScopeJS\AudioScope\bin\AudioScope.dll
+C:\Users\jont\Documents\Visual Studio 2013\Projects\AudioScopeJS\AudioScope\bin\AudioScope.pdb
+C:\Users\jont\Documents\Visual Studio 2013\Projects\AudioScopeJS\AudioScope\obj\Release\AudioScope.csprojResolveAssemblyReference.cache
+C:\Users\jont\Documents\Visual Studio 2013\Projects\AudioScopeJS\AudioScope\obj\Release\AudioScope.dll
+C:\Users\jont\Documents\Visual Studio 2013\Projects\AudioScopeJS\AudioScope\obj\Release\AudioScope.pdb
