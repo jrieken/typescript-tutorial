@@ -1,4 +1,3 @@
-// https://nodejs.org/api/globals.html
 function require(name) {
     // do something magic
     return 42;

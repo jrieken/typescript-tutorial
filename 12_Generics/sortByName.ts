@@ -17,6 +17,6 @@ var entities = [
 	{ name: 'Smart', price: 10 },
 ]
 
-var sorted = sortByName(entities);
-sorted[0].
+//var sorted = sortByName(entities);
+//sorted[0].
 

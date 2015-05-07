@@ -1,3 +1,4 @@
+// https://nodejs.org/api/globals.html
 
 import uuid = require('node-uuid');
 

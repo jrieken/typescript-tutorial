@@ -6,8 +6,12 @@ var aBoolean = true;
 aBoolean = 1234;
 
 
+
+
 var arrayOfString = ["far", "boo"];
 arrayOfString[0].charCodeAt(0);
+
+
 
 
 // inverted from return expression
@@ -17,6 +21,9 @@ function multiply(n1, n2) {
 
 var p = multiply(2, 6);
 p.toExponential();
+
+
+
 
 // union type
 var crazyArray = ["far", ["boo"]]
@@ -30,6 +37,7 @@ var data = {
 } 
 
 var name = data.name;
+
 
 
 // all togther

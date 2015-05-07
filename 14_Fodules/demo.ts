@@ -1,4 +1,4 @@
-// https://nodejs.org/api/globals.html
+
 
 function require(name: string): any {
 	// do something magic
