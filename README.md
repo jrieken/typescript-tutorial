@@ -1,4 +1,4 @@
-### A TypeScript Tutorial Code
+### TypeScript Tutorial Code
 
 Go ahead and start playing with this. Use one of the editors below for a nice code browsing/authoring experience 
 
