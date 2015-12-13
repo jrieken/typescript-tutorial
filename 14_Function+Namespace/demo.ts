@@ -5,7 +5,7 @@ function require(name: string): any {
 	return 42;
 }
 
-module require {
+namespace require {
 
 	export function resolve(name: string): string {
 		return name;
