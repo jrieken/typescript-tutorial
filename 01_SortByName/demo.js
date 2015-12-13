@@ -5,4 +5,3 @@ function sortByName(a) {
     });
     return result;
 }
-sortByName(9);
