@@ -14,7 +14,6 @@ namespace demo {
         }
     }
 
-
     var logger: ILogger;
 
     logger = new ConsoleLogger();
